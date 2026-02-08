@@ -47,6 +47,11 @@
 | [Previous](<https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-(qBittorrent-v3.2.0-v4.0.4)>) | qBittorrent v3.2.0 - v4.0.x |
 | [Obsolete](<https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-(qBittorrent-v3.1.x)>)        | qBittorrent < v3.2.0        |
 
+### Authentication
+
+- [Username/password](https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-(qBittorrent-5.0)#login)
+- [API key](https://github.com/qbittorrent/qBittorrent/wiki/API-Key-Authentication-(≥v5.2.0))
+
 ### WebAPI clients
 
 - [List of unofficial WebAPI clients](https://github.com/qbittorrent/qBittorrent/wiki/List-of-unofficial-WebAPI-clients)
